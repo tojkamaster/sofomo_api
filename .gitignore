@@ -1,0 +1,6 @@
+venv/
+.idea/
+
+.git_heroku/
+
+__pycache__/
